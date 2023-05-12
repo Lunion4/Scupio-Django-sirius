@@ -1,1 +1,1 @@
-# lesson2-sirius
+# Scupio-Django-sirius
